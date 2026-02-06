@@ -53,7 +53,7 @@ Create each visual on a separate tab with the name of the tab displaying the que
 For Tableau users, you would need to upload in. twbx format whereas Power BI files need to be saved in .pbix format. 
 Instructions on how to save in these formats are provided in the resources below.
 Should you get stuck, please reference the Visuals Hints document in the resources.
-References are profided in separate file.
+References are provided in separate file.
 
 
 
