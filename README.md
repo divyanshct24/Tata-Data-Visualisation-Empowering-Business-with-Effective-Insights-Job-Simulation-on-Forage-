@@ -1,5 +1,5 @@
 # Tata-Data-Visualisation-Empowering-Business-with-Effective-Insights-Job-Simulation-on-Forage-(Power BI, DAX, SQL)
-This project has 4 tasks in tota
+This project has 4 tasks.
 
 TASK 1-
 
