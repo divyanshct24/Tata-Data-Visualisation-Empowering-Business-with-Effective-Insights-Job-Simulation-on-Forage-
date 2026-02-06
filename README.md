@@ -14,6 +14,7 @@ Reference- https://asana.com/resources/success-metrics-examples
 
 
 
+
 TASK 2- 
 
 Background- 
@@ -28,6 +29,7 @@ You will be provided resources on how to select visuals based on the different s
 To complete this task, answer the multiple-choice quiz.
 Reference - https://www.analyticsvidhya.com/blog/2021/09/how-to-choose-the-right-chart-for-data-visualization/
 https://infogram.com/blog/choose-the-right-chart/
+
 
 
 
@@ -52,6 +54,7 @@ For Tableau users, you would need to upload in. twbx format whereas Power BI fil
 Instructions on how to save in these formats are provided in the resources below.
 Should you get stuck, please reference the Visuals Hints document in the resources.
 References are profided in separate file.
+
 
 
 
